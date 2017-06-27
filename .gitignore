@@ -4,7 +4,6 @@
 *.ipr
 *.iws
 *.jar
-*.war
 *~
 .DS_Store
 .checkstyle
